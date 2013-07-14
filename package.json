@@ -2,7 +2,9 @@
   "name": "maplight-api",
   "version": "0.0.1",
   "dependencies": {
-    "underscore": "1.4.3"
+    "underscore": "1.4.3",
+    "route-pattern": "x",
+    "express" : "3.x"
   },
   "engines": {
     "node": "0.10.x"
