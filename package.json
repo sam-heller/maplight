@@ -4,7 +4,10 @@
   "dependencies": {
     "underscore": "1.4.3",
     "route-pattern": "x",
-    "express" : "3.x"
+    "express" : "3.x",
+    "mongoose": "3.3.1",
+    "mongodb": "1.2.9",
+    "connect" : "x"
   },
   "engines": {
     "node": "0.10.x"
